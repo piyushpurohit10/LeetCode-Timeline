@@ -1,5 +1,5 @@
 # LeetCode-Timeline
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+My Collection + Timeline Of Leetcode Questions Solved By Me!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
