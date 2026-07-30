@@ -8,6 +8,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | ------- |
 | [1470-shuffle-the-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -19,4 +20,16 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
