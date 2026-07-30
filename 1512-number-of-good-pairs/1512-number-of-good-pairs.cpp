@@ -3,6 +3,9 @@ public:
     int numIdenticalPairs(vector<int>& nums) {
         int good = 0;
         int n=nums.size();
+        if(n==1) {
+            return 0;
+        }
         for (int i = 0; i < nums.size(); i++) {
             for (int j = i + 1; j < nums.size(); j++) {
                 if (nums[i]==nums[j]) {
