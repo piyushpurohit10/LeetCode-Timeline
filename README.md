@@ -11,6 +11,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -32,4 +33,8 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
