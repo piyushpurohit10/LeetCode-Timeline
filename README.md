@@ -7,6 +7,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0027-remove-element) |
 | [1470-shuffle-the-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
@@ -42,4 +43,5 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
