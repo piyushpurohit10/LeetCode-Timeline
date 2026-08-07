@@ -9,6 +9,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0088-merge-sorted-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -52,4 +54,5 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0088-merge-sorted-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
