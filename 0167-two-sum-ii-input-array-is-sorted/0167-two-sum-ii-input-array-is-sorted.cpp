@@ -17,6 +17,6 @@ public:
             }
         }
         
-        return {}; // Default return, though the problem states exactly one solution exists
+        return {}; 
     }
 };
