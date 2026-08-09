@@ -19,6 +19,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [1572-matrix-diagonal-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
+| [2815-max-pair-sum-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/2815-max-pair-sum-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -35,6 +36,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
+| [2815-max-pair-sum-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/2815-max-pair-sum-in-an-array) |
 ## Math
 |  |
 | ------- |
