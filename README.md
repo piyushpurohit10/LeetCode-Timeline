@@ -40,6 +40,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -68,4 +69,8 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
