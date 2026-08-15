@@ -9,6 +9,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -73,4 +74,8 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1486-xor-operation-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
