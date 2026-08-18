@@ -15,7 +15,7 @@ public:
                 count--;
             }
         }
-        // Byer - Moore Voting Algorithm
+        // Boyer - Moore Voting Algorithm
         return candiate;
     }
 };
