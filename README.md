@@ -13,6 +13,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1207-unique-number-of-occurrences) |
@@ -35,6 +36,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1207-unique-number-of-occurrences) |
@@ -65,6 +67,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
