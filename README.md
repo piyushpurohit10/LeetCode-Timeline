@@ -28,6 +28,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [1672-richest-customer-wealth](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1920-build-array-from-permutation) |
 | [2815-max-pair-sum-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/2815-max-pair-sum-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -54,6 +55,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [1486-xor-operation-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
