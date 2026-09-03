@@ -52,6 +52,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1512-number-of-good-pairs) |
@@ -95,6 +96,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -122,6 +124,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
