@@ -18,8 +18,6 @@ public:
                 count = 1;
             }
         }
-
-        // Store frequency of last group
         freq.push_back(count);
 
         sort(freq.begin(), freq.end());
