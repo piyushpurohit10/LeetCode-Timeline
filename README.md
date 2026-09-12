@@ -56,6 +56,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1486-xor-operation-in-an-array) |
@@ -97,6 +98,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
@@ -148,4 +150,8 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
