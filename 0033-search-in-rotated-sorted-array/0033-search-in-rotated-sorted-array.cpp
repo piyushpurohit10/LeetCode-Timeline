@@ -6,7 +6,6 @@ public:
 
         while (start <= end) {
             int mid = start + (end - start) / 2;
-
             if (nums[mid] == target) {
                 return mid;
             }
@@ -20,7 +19,6 @@ public:
                 }
             }
             else {
-
                 if (nums[mid] < target && target <= nums[end]) {
                     start = mid + 1;
                 }
