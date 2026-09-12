@@ -8,9 +8,7 @@ public:
         while (start <= end) {
 
             int mid = start + (end - start) / 2;
-
             long long square = 1LL * mid * mid;
-
             if (square == x) {
                 return mid;
             }
@@ -22,7 +20,6 @@ public:
                 end = mid - 1;
             }
         }
-
         return ans;
     }
 };
