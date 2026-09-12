@@ -8,6 +8,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
