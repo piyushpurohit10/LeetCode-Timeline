@@ -19,6 +19,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0169-majority-element](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -102,6 +104,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -115,6 +118,7 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 | ------- |
 | [0053-maximum-subarray](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -154,4 +158,8 @@ My Collection + Timeline Of Leetcode Questions Solved By Me!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/piyushpurohitofficial10/LeetCode-Timeline/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
